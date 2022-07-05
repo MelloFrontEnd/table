@@ -1,0 +1,56 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    width: 70%;    
+}
+
+tbody{
+    border-radius: 10px;
+    color: white;
+}
+
+thead, th{
+    color: rgb(75, 73, 73);
+    background-color: gainsboro;
+    height: 50px;
+    min-width: 180px;
+    }
+
+ 
+
+.weekdays{
+    color: rgb(75, 73, 73);
+    background-color: gainsboro;
+    border: 1px grey solid;
+}
+
+td{
+        height: 120px;
+}
+
+.daytime{
+    height: 30px;
+    color: rgb(75, 73, 73);
+    background-color: gainsboro;
+}
+
+.work{
+    background-color: lightskyblue;
+}
+
+.study {
+    background-color: fuchsia;
+}
+
+.tsantsale{
+    background-color: rgb(180, 243, 85);
+}
+
+.cuddles {
+    background-color: orangered;
+}
+
+.saqmeebe{
+    background-color: darkcyan;
+}
+
